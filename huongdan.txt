@@ -1,0 +1,4 @@
+Thêm 2 côt trên database
+tại bảng user thêm cột tokenuser kiểu nvarchar 255 mã hóa md5
+tại bảng post thêm cột tokenpost kiển nvarchar 255 mã hóa md5
+
